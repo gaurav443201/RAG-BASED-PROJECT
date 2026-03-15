@@ -1,0 +1,5 @@
+For the question "where is form and input tags in the form taught in this course", the content is taught in video 7. 
+
+The form and input tags are discussed in the video starting at 0:30 (or 30 seconds) and continuing until 30:92, where the instructor explains what forms and input tags are in HTML. They further elaborate on the details of forms and input tags from 6:39 (or 639.8 seconds) onwards, including the attributes like action, method, name, placeholder, autofocus, required, and pattern. 
+
+To understand the content better, I recommend watching video 7 from the beginning. The instructor explains the forms and input tags in detail, so you can get a clear understanding of the topic.

@@ -1,0 +1,22 @@
+[
+    {
+        "start": 0.0,
+        "end": 3.0,
+        "text": " Hello, how are you?"
+    },
+    {
+        "start": 3.0,
+        "end": 6.0,
+        "text": " I am fine, how are you?"
+    },
+    {
+        "start": 6.0,
+        "end": 8.0,
+        "text": " You are sleeping?"
+    },
+    {
+        "start": 8.0,
+        "end": 10.0,
+        "text": " Ok, I will call you later."
+    }
+]
