@@ -1,4 +1,4 @@
-# How to use this RAG AI Teaching assistant on your own data
+# How to use this RAG AI Teaching assistant on your own data ?
 
 
 ## step 1 - Collect your video
